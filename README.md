@@ -24,7 +24,8 @@ We await your contributions :heart:
 
 ### More information and incident reports
 
-If you have any questions or want to report a violation to our code of conduct please contact **safespace** at **codeforamerica.org**.
+If you have any questions or want to report a violation to our code of conduct to Code for Asheville, please contact **captains** at **codeforasheville.org**.
+To report a concern with one or both captains, contact Code for America at **safespace** at **codeforamerica.org**.
 
 ----
 
